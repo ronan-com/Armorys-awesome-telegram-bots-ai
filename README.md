@@ -43,6 +43,7 @@
 - **[@BardAI_bot](https://t.me/BardAI_bot)** — AI 问答助手
 - **[@OpenAI_bot](https://t.me/OpenAI_bot)** — OpenAI API 驱动的聊天机器人
 - **[@GPT4Telegrambot](https://t.me/GPT4Telegrambot)** — GPT-4 对话机器人
+- **[@TSocialAppBot](https://t.me/TSocialAppBot)** - TikTok 风格的 Telegram 小程序：短视频、热门创作者、AI 聊天角色（18+）
 
 ---
 
